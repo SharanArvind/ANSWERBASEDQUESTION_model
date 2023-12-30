@@ -1,0 +1,21 @@
+{
+  "name": "answer-based-ques",
+  "version": "1.0.0",
+  "main": "comp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^5.5.0",
+    "deepspeech": "^0.9.3",
+    "express": "^4.18.2",
+    "expresss": "^0.0.0",
+    "fs": "^0.0.1-security",
+    "node-microphone": "^0.1.6",
+    "node-record-lpcm16": "^1.0.1",
+    "path": "^0.12.7",
+    "readline": "^1.3.0"
+  }
+}
